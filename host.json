@@ -1,0 +1,7 @@
+﻿{
+    "id":  "afdbc3376cf943908bd0341751976056",
+    "functionTimeout":  "00:02:00",
+    "http":  {
+                 "routPrefix":  "api"
+             }
+}
