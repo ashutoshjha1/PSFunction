@@ -1,5 +1,5 @@
 $result = [PSCustomObject][Ordered]@{
-    'Status'    = 200
+    'Status'    = '200'
     'Headers'   = [PSCustomObject][Ordered]@{
                     'content-type' = 'application/json'
                   }
